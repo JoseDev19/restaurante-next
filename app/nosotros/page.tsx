@@ -1,0 +1,2 @@
+export default function P(){return <section><div className="wrap" style={{maxWidth:720}}><p className="kick">Nuestra historia</p><h1>Cocina con <em>alma.</em></h1>
+<p className="mut" style={{marginTop:24}}>Desde 2012 trabajamos con producto local y de temporada, cocinado a fuego lento y servido para compartir. Creemos que el mejor ingrediente siempre será el momento compartido.</p></div></section>}

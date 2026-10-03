@@ -1,0 +1,8 @@
+{"settings":{"nombre":"Sabor & Arte","tagline":"Donde cada plato cuenta una historia.","telefono":"+34 965 000 000","whatsapp":"34965000000","direccion":"Calle del Mar, 18, 03201 Alicante","horarios":"Martes–Domingo · 13:00–16:00 y 20:00–23:30","email":"hola@saborarte.es"},
+"dishes":[
+{"name":"Arroz meloso del Mediterráneo","desc":"Gamba roja · calamar · azafrán","price":24,"cat":"Principales","destacado":true,"visible":true},
+{"name":"Solomillo, reducción de vino","desc":"Parmentier · setas · jugo de carne","price":28,"cat":"Principales","destacado":true,"visible":true},
+{"name":"Tarta de queso al horno","desc":"Queso crema · frutos rojos · vainilla","price":8,"cat":"Postres","destacado":true,"visible":true},
+{"name":"Croquetas de jamón ibérico","desc":"Bechamel cremosa · 8 uds","price":11,"cat":"Entrantes","destacado":false,"visible":true},
+{"name":"Ensalada de temporada","desc":"Verduras locales · vinagreta de cítricos","price":13,"cat":"Entrantes","destacado":false,"visible":true}],
+"reservas":[],"messages":[]}
